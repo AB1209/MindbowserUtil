@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MindbowserLibrary</string>
+
+    <string name="font_gotham_light">GOTHAM-LIGHT.TTF</string>
+    <string name="font_gotham_bold">GOTHAM-BOLD.TTF</string>
+    <string name="font_bebas">BEBAS.TTF</string>
+    <string name="font_bebas_bold">BebasNeueBold.otf</string>
+</resources>
